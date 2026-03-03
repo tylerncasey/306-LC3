@@ -1,6 +1,6 @@
 ; Programming Assignment 0
-; Student Name:
-; UT Eid:
+; Student Name: Tyler Casey
+; UT Eid: TNC824
 ; You are given three inputs A, B and C stored respectively at addresses, 
 ;    x30F0, x30F1 and x30F2. 
 ; Your job is to perform the following operations and store the results at address specified:
@@ -88,3 +88,4 @@ OR
     .BLKW   #1        ; Diff
 	.END
 	
+
